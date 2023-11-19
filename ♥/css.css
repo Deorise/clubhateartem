@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+#pic {
+  width: 50px;
+  height: 50px;
+position: relative;
+left: 550px;
+top: 150px;
+}
+#txt {
+    color: #ccc;
+    font-size: 32px;
+    position: relative;
+    left: 620px;
+    top: 50px;
+}
+#txt:hover {
+    color: #939393;
+}

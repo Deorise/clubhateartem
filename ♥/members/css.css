@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+#title {
+    color: #ccc;
+    text-align: center;
+    font-size: 32px;
+}
+#pic1 {
+border: 3px solid orange;
+width: 350px;
+position: relative;
+}
+#pic2 {
+    border: 3px solid orange;
+    width: 350px;
+    position: relative;
+    margin-left: 600px;
+}
+#pic3 {
+    border: 3px solid orange;
+    width: 350px;
+    position: relative;
+    margin-left: 1100px;
+}
+
+#ex {
+    color: #ccc;
+    font-size: 32px;
+    text-align: end;
+}
+#txt1 {
+color: #ccc;
+font-size: 28px;
+position: relative;
+width: 600px;
+left: 500px;
+top: -350px;
+}
+#txt2 {
+    color: #ccc;
+    font-size: 28px;
+    position: relative;
+    width: 600px;
+    top: -350px;
+}
+#txt3 {
+    color:  #ccc;
+    font-size: 28px;
+    position: relative;
+    top: -300px;
+    left: 320px;
+}
+video {
+    position: relative;
+    left: 350px;
+}
